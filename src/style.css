@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+.navBar{
+    background-color: #36d4c1;
+    margin-bottom: 20px;
+    height: 35px;
+    border-bottom: 2px solid black;
+
+}
+.navBarh1{
+    font: arial;
+}
+
+.cardInfected{
+   border-bottom: 5px solid rgb(240, 236, 6);
+}
+.cardBodyCount{
+    border-bottom: 5px solid rgb(248, 31, 2);
+}
+.cardRecovered{
+     border-bottom: 5px solid #36d4c1;
+}
